@@ -5,7 +5,7 @@ export default function NavBar() {
     <div>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand>SimpleBank & Co.</Navbar.Brand>
+          <Navbar.Brand>Bank</Navbar.Brand>
         </Container>
       </Navbar>
     </div>

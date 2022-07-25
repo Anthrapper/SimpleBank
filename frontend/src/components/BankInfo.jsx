@@ -144,7 +144,7 @@ const BankInfo = ({ onAccoutChange }) => {
                 variant="info"
                 onClick={handleClose}
               >
-                Close
+                Back
               </Button>
             </div>
             {response && (
